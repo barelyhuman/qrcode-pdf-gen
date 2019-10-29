@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "mkdirp": "^0.5.1",
     "pdfkit": "^0.10.0",
     "qrcode": "^1.4.2"
   }
